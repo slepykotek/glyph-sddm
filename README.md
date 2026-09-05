@@ -1,4 +1,4 @@
-# 🔴⚪⚫ Glyph SDDM
+# Glyph SDDM 🔴⚪⚫
 
 A high-end, minimalist SDDM theme inspired by the **Nothing Phone** aesthetic. Featuring authentic dot-matrix typography, intelligent adaptive coloring, and premium "obsidian glass" interactions.
 
