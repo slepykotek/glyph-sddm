@@ -3,7 +3,7 @@
 a high-end, minimalist SDDM theme inspired by the **Nothing Phone** aesthetic. Featuring authentic dot-matrix typography, intelligent adaptive coloring, and premium "obsidian glass" interactions.
 
 <div align="center">
-  <img src="screenshots/lock_screen.png" width="45%" alt="lock screen" />
+  <img src="screenshots/login_screen.png" width="45%" alt="login screen" />
 </div>
 
 ## 🛠 configuration & Testing
