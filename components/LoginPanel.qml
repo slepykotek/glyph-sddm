@@ -7,7 +7,7 @@ Item {
     width: 400
     height: 400
 
-    property color accentColor: "#D71921"
+    property color accentColor: "#7F66D9"
     property color textColor: "white"
     property string fontName: "serif" 
     property bool isLoggingIn: false
