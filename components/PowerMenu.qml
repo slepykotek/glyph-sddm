@@ -7,7 +7,7 @@ Item {
     width: 300
     height: 100
 
-    property color accentColor: "#D71921" // Nothing Red
+    property color accentColor: "#7F66D9" // medium slate blue
     property color textColor: "white"
     property string fontName: "monospace"
     property string symbolFontName: "monospace"
